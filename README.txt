@@ -3,14 +3,14 @@ which is a desktop based GUI for playing chess. The game may be played
 online as well on this interface, and is also scalable to any
 comfortable size with a number of interesting features.
 
-We created this app using the limited knowledge we had, and we
-are glad with the outcome :). 
-
 Feel free to view our outputs, code and more that we documented
 for this project at this link:
 https://docs.google.com/document/d/1YDdRpkBfF1w6WHaiwnEyLLNSD3sixvq8/edit?usp=sharing&ouid=102047719857560645756&rtpof=true&sd=true
 [I have put up the documentation and screenshots of our output in
 two seperate documents in the repository also.]
+
+We created this project using the limited knowledge we had, usefully putting
+our time together during the lockdown, and are glad with the outcome!
 
 I am new to github and I might not have done the right
 things for a comfortable understanding of our project.
