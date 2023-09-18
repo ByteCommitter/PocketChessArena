@@ -11,9 +11,4 @@ two seperate documents in the repository also.]
 
 We created this project using the limited knowledge we had, usefully putting
 our time together during the lockdown, and are glad with the outcome!
-
-I am new to github and I might not have done the right
-things for a comfortable understanding of our project.
-Requesting you to kindly visit the above mentioned website or document 
-to view our outputs in case of any difficulty!
 Reviews and suggestions on improvement are highly appreciated!
